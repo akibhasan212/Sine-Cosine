@@ -1,5 +1,5 @@
 //AUTHOR: Akib Hasan Aryan
-//UCID: 30141456
+
 
 error:	.string "Error opening a file. Aborting\n"
 
